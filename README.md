@@ -51,3 +51,14 @@
 🟢VERDE
 
 <img width="655" height="67" alt="imagen" src="https://github.com/user-attachments/assets/0f62fec1-ef86-49bf-ac72-b638234a7d18" />
+
+
+## APP FUNCIONANDO
+
+<img width="708" height="1378" alt="imagen" src="https://github.com/user-attachments/assets/e15ce5b3-d82b-41e9-a867-a8f70742fb5c" />
+
+<img width="694" height="1374" alt="imagen" src="https://github.com/user-attachments/assets/83c3979c-7c77-45e5-925c-c8e8762d8462" />
+
+<img width="706" height="1387" alt="imagen" src="https://github.com/user-attachments/assets/ff104acc-7e72-4620-a0b9-acccc2cc6a19" />
+
+
